@@ -1,0 +1,37 @@
+body{
+    
+    font-family: Times New Roman;
+    font-size: 20pt;
+    font-variant: Times;
+    
+}
+
+h2{
+    background-color: grey;
+    color: white;
+}
+
+p{
+    background-color: grey;
+    color: white;
+}
+
+table{
+                border: 1px solid black;
+                border-radius: 15px;
+                padding: 50px;
+                box-shadow: 20px 25px 20px;
+}
+
+th,td{
+    
+    border : 2;
+}
+
+.button_style{
+    
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    
+}
